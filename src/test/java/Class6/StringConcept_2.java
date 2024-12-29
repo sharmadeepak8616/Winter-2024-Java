@@ -22,6 +22,7 @@ public class StringConcept_2 {
          *      replace()
          *      equals()
          *      equalsIgnoreCase()
+         *      charAt()
          *
          */
         String countryName = "UNiTeD KInGDom OF GReAt BRiTaIn And NorTHerN irElaND";
