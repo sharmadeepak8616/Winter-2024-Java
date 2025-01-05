@@ -29,7 +29,6 @@ public class StringConcept_3 {
          *      lastIndexOf()
          *      trim()
          *      substring()
-         *      split()
          *
          */
         String countryName = "UNiTeD KInGDom OF GReAt BRiTaIn And NorTHerN irElaND";
@@ -162,7 +161,7 @@ public class StringConcept_3 {
         System.out.println("countryName from index-1 to index-15(excluding index-15) -> " + countryNameFromIndex1To15);
 
         String countryNameFromIndex0To1 = countryName.substring(0,1);
-        System.out.println("countryName from index-0 to index-6(excluding index-1) -> " + countryNameFromIndex0To1);
+        System.out.println("countryName from index-0 to index-1(excluding index-1) -> " + countryNameFromIndex0To1);
 
         String countryNameFromIndex1 = countryName.substring(1);
         System.out.println("countryName from index-1 -> " + countryNameFromIndex1);
