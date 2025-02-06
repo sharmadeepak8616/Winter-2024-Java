@@ -187,7 +187,7 @@ public class List_ArrayList_2 {
         System.out.println("student2027List -> "+ student2027List);
 
         /**
-         *To find the index of FIRST OCCURRENCE of given value in ArrayList/List
+         * To find the index of FIRST OCCURRENCE of given value in ArrayList/List
          * method: indexOf()
          *
          * if the given value is EXACTLY present at any given index-number in ArrayList/List
@@ -213,7 +213,7 @@ public class List_ArrayList_2 {
         System.out.println("student2027List -> "+ student2027List);
 
         /**
-         *To find the index of LAST OCCURRENCE of given value in ArrayList/List
+         * To find the index of LAST OCCURRENCE of given value in ArrayList/List
          * method: lastIndexOf()
          *
          * if the given value is EXACTLY present at any given index-number in ArrayList/List
@@ -239,7 +239,7 @@ public class List_ArrayList_2 {
         System.out.println("student2027List -> "+ student2027List);
 
         /**
-         * To find if a given value is EXACTLY present at any index-number if ArrayList/List
+         * To find if a given value is EXACTLY present at any index-number in ArrayList/List
          * method: contains()
          *
          * if the given-value is EXACTLY present at any index-number in ArrayList/List
